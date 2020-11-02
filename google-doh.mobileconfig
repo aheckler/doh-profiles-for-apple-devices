@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>8.8.8.8</string>
+					<string>8.8.4.4</string>
+					<string>2001:4860:4860::8888</string>
+					<string>2001:4860:4860::8844</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://dns.google/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures your device to use Google DNS over HTTPS.</string>
+			<key>PayloadDisplayName</key>
+			<string>Google DNS over HTTPS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.adamheckler.google-doh.BE14DC3B-F1B0-4F87-80D6-2E36CE9D52E8</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>F21A1A44-9EC3-4B8F-BFF1-AAE5D66ED478</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures your device to use Google DNS over HTTPS.</string>
+	<key>PayloadDisplayName</key>
+	<string>Google DNS over HTTPS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.adamheckler.google-doh</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C52293C0-AD1D-41DB-9A4A-ED1D64CB5318</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
