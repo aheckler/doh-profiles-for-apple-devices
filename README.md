@@ -6,13 +6,13 @@ One of the new features in iOS 14 is [the ability to encrypt DNS](https://develo
 
 All profiles use DNS over HTTPS and support both IPv4 and IPv6.
 
-| Profile                                                 | Filters Malware | Filters Adult Content |                                 Privacy Policy                                |
-|---------------------------------------------------------|:---------------:|:---------------------:|:-----------------------------------------------------------------------------:|
-| cloudflare-doh.mobileconfig                             |        No       |           No          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
-| cloudflare-doh-filter-malware.mobileconfig              |       Yes       |           No          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
-| cloudflare-doh-filter-malware-adultcontent.mobileconfig |       Yes       |          Yes          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
-| google-doh.mobileconfig                                 |        No       |           No          |         [Link](https://developers.google.com/speed/public-dns/privacy)        |
-| quad9-doh.mobileconfig                                  |       Yes       |           No          |                  [Link](https://www.quad9.net/home/privacy/)                  |
+| Profile                                    | Filters Malware | Filters Adult Content |                                 Privacy Policy                                |
+|--------------------------------------------|:---------------:|:---------------------:|:-----------------------------------------------------------------------------:|
+| cloudflare-doh                             |        No       |           No          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
+| cloudflare-doh-filter-malware              |       Yes       |           No          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
+| cloudflare-doh-filter-malware-adultcontent |       Yes       |          Yes          | [Link](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver) |
+| google-doh                                 |        No       |           No          |         [Link](https://developers.google.com/speed/public-dns/privacy)        |
+| quad9-doh                                  |       Yes       |           No          |                  [Link](https://www.quad9.net/home/privacy/)                  |
 
 ## Install
 
