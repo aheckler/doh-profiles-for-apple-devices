@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>1.1.1.1</string>
+					<string>1.0.0.1</string>
+					<string>2606:4700:4700::1111</string>
+					<string>2606:4700:4700::1001</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://cloudflare-dns.com/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures your device to use Cloudflare DNS over HTTPS.</string>
+			<key>PayloadDisplayName</key>
+			<string>Cloudflare DNS over HTTPS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.adamheckler.cloudflare-doh-filter-none.CA1D21E8-5CF4-4F11-A1AA-885B7DFE196D</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>48EAC3F6-C3B7-479B-9B01-AB5FF112331D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures your device to use Cloudflare DNS over HTTPS.</string>
+	<key>PayloadDisplayName</key>
+	<string>Cloudflare DNS over HTTPS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.adamheckler.cloudflare-doh-filter-none</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2EEB098A-3C2A-40CC-9935-C7ECB9119479</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
