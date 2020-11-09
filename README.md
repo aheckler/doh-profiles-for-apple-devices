@@ -16,16 +16,17 @@ All profiles use DNS over HTTPS and support both IPv4 and IPv6.
 
 ## Install
 
-1. Download the profile of your choosing to your computer.
-2. Via AirDrop, Dropbox, or some other method, transfer the file to your iOS device and open it.
-3. You'll see a *Profile Downloaded* alert. Tap **Close**.
-4. Open the *Settings* app. There will be a *Profile Downloaded* section near the top. Open that.
-5. Inside, it will show the profile name and info. Tap **Install**.
-6. Enter your passcode.
-7. You'll see a warning that the profile might monitor your network traffic, and that it's unsigned. Tap **Install**.
-8. The profile will be installed. Tap **Done**.
+1. Choose the desired profile above.
+2. Tap the **Raw** button.
+3. You'll be asked if you want to allow the profile download. Tap **Allow**.
+4. You'll see a *Profile Downloaded* alert. Tap **Close**.
+5. Open the *Settings* app. There will be a *Profile Downloaded* section near the top. Open that.
+6. Inside, it will show the profile name and info. Tap **Install**.
+7. Enter your passcode.
+8. You'll see a warning that the profile might monitor your network traffic, and that it's unsigned. Tap **Install**.
+9. The profile will be installed. Tap **Done**.
 
-If you're scared of the warning in Step 7, I'd suggest just using a VPN app instead, such as [Cloudflare's 1.1.1.1 app](https://1.1.1.1/) or one [suggested by Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-vpn-service/).
+If you're scared of the warning in Step 8, I'd suggest just using a VPN app instead, such as [Cloudflare's 1.1.1.1 app](https://1.1.1.1/) or one [suggested by Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-vpn-service/).
 
 ## Uninstall
 
