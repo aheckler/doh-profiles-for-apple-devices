@@ -16,7 +16,7 @@ All profiles use DNS over HTTPS and support both IPv4 and IPv6.
 
 ## Install
 
-1. Choose the desired profile above.
+1. Using Safari, choose the desired profile above.
 2. Tap the **Raw** button.
 3. You'll be asked if you want to allow the profile download. Tap **Allow**.
 4. You'll see a *Profile Downloaded* alert. Tap **Close**.
