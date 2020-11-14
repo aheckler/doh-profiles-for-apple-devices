@@ -30,9 +30,9 @@ All profiles use DNS over HTTPS and support both IPv4 and IPv6.
 
 1. Using Safari, choose the desired profile above.
 2. Right-click the **Raw** button and choose *Download Linked File*.
-3. Locate the downloaded file and remove the *.txt* file extension (so it ends in *.mobileconfig* only).
+3. Locate the downloaded file and remove the `.txt` file extension (so it ends in `.mobileconfig` only).
 4. Double-click the file, you'll see an alert telling you what to do next. Close that.
-5. Open the *Settings* app. There will be a new *Profiles* section. Open that.
+5. Open the *System Preferences* app. There will be a new *Profiles* section. Open that.
 6. Inside, it will show the profile name and info. Click **Install**.
 7. Enter your password or Touch ID.
 8. You'll see a warning that the profile is unsigned. Click **Install**.
@@ -42,7 +42,7 @@ If you're scared of the warning in Step 8, I'd suggest just using a VPN app inst
 
 ## Uninstall on iOS and iPadOS 14 or higher
 
-1. Open *Settings* > *General* > *Profile*.
+1. Open *System Preferences* > *General* > *Profile*.
 2. Tap the profile.
 3. Tap **Remove Profile**.
 4. Enter your passcode.
