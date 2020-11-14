@@ -42,7 +42,7 @@ If you're scared of the warning in Step 8, I'd suggest just using a VPN app inst
 
 ## Uninstall on iOS and iPadOS 14 or higher
 
-1. Open *System Preferences* > *General* > *Profile*.
+1. Open *Settings* > *General* > *Profile*.
 2. Tap the profile.
 3. Tap **Remove Profile**.
 4. Enter your passcode.
@@ -50,7 +50,7 @@ If you're scared of the warning in Step 8, I'd suggest just using a VPN app inst
 
 ## Uninstall on macOS 11 or higher
 
-1. Open *Settings* > *Profiles*.
+1. Open *System Preferences* > *Profiles*.
 2. Choose the profile.
 3. Click the **-** button below.
 4. Enter your password or Touch ID.
