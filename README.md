@@ -1,4 +1,4 @@
-# DNS over HTTPS iOS Profiles
+# DNS over HTTPS for Apple Devices
 
 One of the new features in iOS/iPadOS 14 and macOS 11 is [the ability to encrypt DNS](https://developer.apple.com/videos/play/wwdc2020/10047/) without needing a VPN app. The profiles in this repo use this new ability to enable DNS over HTTPS for the entire system. This increases your security and privacy.
 
