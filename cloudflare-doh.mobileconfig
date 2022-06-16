@@ -22,9 +22,9 @@
 			<key>PayloadDescription</key>
 			<string>Configures your device to use Cloudflare DNS over HTTPS.</string>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
+			<string>Cloudflare DoH</string>
 			<key>PayloadIdentifier</key>
-			<string>com.adamheckler.cloudflare-doh.CA1D21E8-5CF4-4F11-A1AA-885B7DFE196D</string>
+			<string>name.chipwarden.cloudflare-doh.24058C50-ED0F-11EC-8EA0-0242AC120002</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -38,15 +38,15 @@
 	<key>PayloadDescription</key>
 	<string>Configures your device to use Cloudflare DNS over HTTPS.</string>
 	<key>PayloadDisplayName</key>
-	<string>Cloudflare DNS over HTTPS</string>
+	<string>Cloudflare DoH</string>
 	<key>PayloadIdentifier</key>
-	<string>com.adamheckler.cloudflare-doh</string>
+	<string>name.chipwarden.cloudflare-doh</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>2EEB098A-3C2A-40CC-9935-C7ECB9119479</string>
+	<string>6A6797D8-ED0F-11EC-8EA0-0242AC120002</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
